@@ -2,13 +2,13 @@ body {background-color: #6d6875 ; font-family: inherit;
     
 
 }
-.medium {background-color: #b5838d;
+.medium {background-color: #b5838d; height: 200mm;
 
 }
-.large {background-color: #e5989b;
+.large {background-color: #e5989b; height: 200mm;
 }
 .small {
-    background-color: #ffb4a2;
+    background-color: #ffb4a2; height: 200mm;
 }
 .contact{background-color: #ffcdb2; flex-wrap: wrap; inline-size: 500mm; margin-top: 10mm;
 
