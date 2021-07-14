@@ -14,8 +14,7 @@ body {background-color: #6d6875 ; font-family: inherit;
 
 text-align: center;} 
 .pizza{ padding: 10mm; border: 1mm solid rgb(41, 40, 40);
-; align-content: center; display: inline-flexbox;
-
+; align-content: center; display: inline-flexbox; display: inline-block;
 } 
 .header{text-align: center; font-size: 20mm; font-style: oblique;
 }   
